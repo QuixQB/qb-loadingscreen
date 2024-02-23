@@ -16,7 +16,7 @@ For additional support or if you have any questions, feel free to join our Disco
 Add the following lines to your `server.cfg` or `resources.cfg`:
 
 ```plaintext
-qb-loadingscreen
+ensure qb-loadingscreen
 ```
 
 ## Preview

@@ -16,5 +16,7 @@ files {
     "nui/dist/**/*",
 }
 
-server_scripts { "build/sv_*.js" }
+server_scripts { "build/sv_*.js" {
+    "build/sv_*.js",
+    "s.lua",
 client_scripts { "build/cl_*.js" }
